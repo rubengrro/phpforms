@@ -1,0 +1,21 @@
+{
+    "name": "ruben_19hkmkj/php-html",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "dev-master",
+        "psr/container": "2.0.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ruben19hkmkj\\PhpHtml\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rubén Guerrero",
+            "email": "rguerreroespinosa97@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
